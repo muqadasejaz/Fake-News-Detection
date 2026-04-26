@@ -1,15 +1,10 @@
 # 📰 Fake News Detection 
 
-               
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/09068b67-9846-4990-b3ec-20d77c5c865c" alt="fn4" width="600"/>
-</p>
-
-
-
 This project aims to detect and classify news articles as Fake or Real using Natural Language Processing (NLP) and machine learning techniques. With the increasing spread of misinformation online, especially through social media, automated detection systems have become crucial.
 
 Detect whether a news article is **real** or **fake** using a machine learning pipeline based on **TF-IDF vectorization** and a **Gradient Boosting Classifier**. The model achieves an impressive **99% accuracy**.
+
+<img width="1324" height="765" alt="Fake News Detection" src="https://github.com/user-attachments/assets/a6558d26-c560-4f94-a910-79b7f790a3ce" />
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -108,7 +103,7 @@ A clean **Streamlit interface** makes the model easy to use for live news predic
 
 ## 🌐 Live Demo
 
-Click here to try the live app 👉 [Fake News Detection App]()
+Click here to try the live app 👉 [Fake News Detection App](https://fakenewsdetction.streamlit.app/)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
