@@ -103,7 +103,7 @@ A clean **Streamlit interface** makes the model easy to use for live news predic
 
 ## 🌐 Live Demo
 
-Click here to try the live app 👉 [Fake News Detection App](https://fakenewsdetction.streamlit.app/)
+Click here to try the live app 👉 [Fake News Detection App](https://fake-newsdetectionsystem.streamlit.app/)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
