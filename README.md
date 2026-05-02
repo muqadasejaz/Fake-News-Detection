@@ -8,6 +8,14 @@ Detect whether a news article is **real** or **fake** using a machine learning p
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
+## 🌐 Live Demo
+
+Click here to try the live app 👉 [Fake News Detection App](https://fake-newsdetectionsystem.streamlit.app/)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 ## 📌 Overview
 
 Fake news has become a major concern in today's digital world. This project leverages **Natural Language Processing (NLP)** techniques like **TF-IDF vectorization** and a supervised learning model (**Gradient Boosting**) to classify news articles as either **FAKE** or **REAL**. 
@@ -99,11 +107,6 @@ A clean **Streamlit interface** makes the model easy to use for live news predic
 
 <img width="802" height="433" alt="not_fake" src="https://github.com/user-attachments/assets/c8b70779-6143-4dcd-8a30-7ce841355611" />
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-## 🌐 Live Demo
-
-Click here to try the live app 👉 [Fake News Detection App](https://fake-newsdetectionsystem.streamlit.app/)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
